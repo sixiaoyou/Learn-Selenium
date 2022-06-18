@@ -1,0 +1,973 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b1e6ffa-33cc-4a65-b4cf-4ff80a416b31" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20211008/selenium-3.141.0.tar.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20220303/test_report/整合自动发送邮件功能.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20220303/test_report/更易读的测试报告.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20220303/test_report/第一份测试报告.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/data/demo.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/data/demo_new.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/.idea/Learn-Selenium.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20211008/files/test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20211008/files/upfile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20211008/implicitly_wait.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20211008/is_displayed_wait.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20211008/wait.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20211008/上传文件.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20211008/下拉框处理.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20211008/下载文件.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20211008/多窗口切换.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20211008/定位一组元素.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20211008/操作Cookie.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20211008/警告框处理.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20211220/MyTest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20211220/Selenium_Demo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20211220/TestAssert.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20211220/TestBdd.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20211220/TestCalculator.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20211220/TestCalculatorV2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20211220/calculator.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20211220/fixture.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20211220/leap_year.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20211220/run_tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20211220/test_baidu.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20211220/test_baiduV2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20211220/test_baiduV3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20211220/test_calculator.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20211220/test_leap_year.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20211220/处理HTML5视频播放.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20211220/滑动选择日期.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20211220/窗口截图.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20211220/调用JavaScript.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20220303/Python_mailV2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20220303/baidu_data.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20220303/ddt_data_file.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20220303/ddt_data_file.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20220303/log.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20220303/python_mail.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20220303/python_yagmail.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20220303/run_tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20220303/run_testsV2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20220303/run_testsV3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20220303/test_baidu_data.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20220303/test_baidu_dataV2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20220303/test_baidu_ddt.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20220303/test_parameterized.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20220303/test_report/2022-03-03 06_33_00result.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20220303/test_report/result.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20220303/test_report2022-03-06 06_17_38result.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20220307/baidu_page.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20220307/base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20220307/run_tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20220607/report/assets/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20220607/report/log.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20220607/report/result.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20220607/run_tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20220607/test_assert.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20220607/test_fail.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20220607/test_fixtures_01.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20220607/test_fixtures_02.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20220607/test_parallel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20220607/test_parameterize.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20220607/test_project/conftest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20220607/test_project/test_sub.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20220607/test_rerunfailures.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/20220607/test_sample.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/cases/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/cases/case_demo2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/excel_driver/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/excel_driver/demo3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/excel_driver/excel_read4.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/excel_driver/excel_read5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/test_ActionChains.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/test_baidu.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/test_click.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/test_move.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/test_send_keys.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/test_size.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/test_submit.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/test_text.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/test_title.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/web_keys/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/web_keys/keys1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Learn-Selenium/web_keys/keys_plus5.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Learn-Selenium" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/20211220/TestCalculatorV.py" />
+        <option value="$PROJECT_DIR$/20211220/calculator.py" />
+        <option value="$PROJECT_DIR$/20211220/TestCalculatorV2.py" />
+        <option value="$PROJECT_DIR$/20211220/TestAssert.py" />
+        <option value="$PROJECT_DIR$/20211220/leap_year.py" />
+        <option value="$PROJECT_DIR$/20211220/test_leap_year.py" />
+        <option value="$PROJECT_DIR$/20211220/run_tests.py" />
+        <option value="$PROJECT_DIR$/20211220/TestBdd.py" />
+        <option value="$PROJECT_DIR$/20211220/MyTest.py" />
+        <option value="$PROJECT_DIR$/20211220/Selenium_Demo.py" />
+        <option value="$PROJECT_DIR$/20211220/fixture.py" />
+        <option value="$PROJECT_DIR$/20211220/test_baiduV2.py" />
+        <option value="$PROJECT_DIR$/20211220/test_baiduV3.py" />
+        <option value="$PROJECT_DIR$/20220102/keys1.py" />
+        <option value="$PROJECT_DIR$/20220102/case_demo2.py" />
+        <option value="$PROJECT_DIR$/20210102/case_demo2.py" />
+        <option value="$PROJECT_DIR$/20210102/cases/case_demo2.py" />
+        <option value="$PROJECT_DIR$/cases/case_demo2.py" />
+        <option value="$PROJECT_DIR$/excel_driver/demo.py" />
+        <option value="$PROJECT_DIR$/excel_driver/demo3.py" />
+        <option value="$PROJECT_DIR$/web_keys/keys_plus5.py" />
+        <option value="$PROJECT_DIR$/excel_driver/excel_read4.py" />
+        <option value="$PROJECT_DIR$/web_keys/keys1.py" />
+        <option value="$PROJECT_DIR$/excel_driver/excel_read5.py" />
+        <option value="$PROJECT_DIR$/20220303/run_tests.py" />
+        <option value="$PROJECT_DIR$/20211220/test_baidu.py" />
+        <option value="$PROJECT_DIR$/20220303/run_testsV2.py" />
+        <option value="$PROJECT_DIR$/20220303/test_baidu_data.py" />
+        <option value="$PROJECT_DIR$/20220303/test_baidu_dataV2.py" />
+        <option value="$PROJECT_DIR$/20220303/test_parameterized.py" />
+        <option value="$PROJECT_DIR$/20220303/ddt_data_file.json" />
+        <option value="$PROJECT_DIR$/20220303/test_baidu_ddt.py" />
+        <option value="$PROJECT_DIR$/20220303/python_mail.py" />
+        <option value="$PROJECT_DIR$/20220303/Python_mailV2.py" />
+        <option value="$PROJECT_DIR$/20220303/python_yagmail.py" />
+        <option value="$PROJECT_DIR$/20220303/run_testsV3.py" />
+        <option value="$PROJECT_DIR$/20220307/baidu_page.py" />
+        <option value="$PROJECT_DIR$/20220307/run_tests.py" />
+        <option value="$PROJECT_DIR$/20220307/base.py" />
+        <option value="$PROJECT_DIR$/20220307/baidu_pagetwo.py" />
+        <option value="$PROJECT_DIR$/20220607/test_sample.py" />
+        <option value="$PROJECT_DIR$/20220607/test_fixtures_01.py" />
+        <option value="$PROJECT_DIR$/20220607/test_fixtures_02.py" />
+        <option value="$PROJECT_DIR$/20220607/test_parameterize.py" />
+        <option value="$PROJECT_DIR$/20220607/test_assert.py" />
+        <option value="$PROJECT_DIR$/20220607/run_tests.py" />
+        <option value="$PROJECT_DIR$/20220607/report/log.xml" />
+        <option value="$PROJECT_DIR$/20220607/test_project/conftest.py" />
+        <option value="$PROJECT_DIR$/20220607/test_project/test_sub.py" />
+        <option value="$PROJECT_DIR$/20220607/test_rerunfailures.py" />
+        <option value="$PROJECT_DIR$/20220607/test_parallel.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Learn-Selenium" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Learn-Selenium" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Learn-Selenium" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\Selenium" />
+      <recent name="C:\Users\user\PycharmProjects\Selenium\20220303\test_report" />
+      <recent name="C:\Users\user\PycharmProjects\Selenium\20220303" />
+      <recent name="C:\Users\user\PycharmProjects\Selenium\20210102\cases" />
+      <recent name="C:\Users\user\PycharmProjects\Selenium\20210102\web_keys" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\Selenium\20220607" />
+      <recent name="C:\Users\user\PycharmProjects\Selenium\20220303" />
+      <recent name="C:\Users\user\PycharmProjects\Selenium\excel_driver" />
+      <recent name="C:\Users\user\PycharmProjects\Selenium\web_keys" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.run_tests (1)">
+    <configuration default="false" name="Unittests in TestBaidu" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20220307" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Selenium" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20220307/run_tests.py" />
+      <option name="CLASS_NAME" value="TestBaidu" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_CLASS" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittest TestBaidu.test_baidu_search_case" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20220307" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Selenium" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20220307/run_tests.py" />
+      <option name="CLASS_NAME" value="TestBaidu" />
+      <option name="METHOD_NAME" value="test_baidu_search_case" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_sample" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20220607" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Selenium" />
+      <option name="SCRIPT_NAME" value="C:\Users\user\PycharmProjects\Selenium\20220607\test_sample.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_fixtures_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20220607" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Selenium" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20220607/test_fixtures_01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="run_tests (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20220607" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Selenium" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20220607/run_tests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Selenium" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Selenium" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Selenium" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Selenium" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Selenium" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Selenium" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Selenium" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_AddTest" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20211220" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Selenium" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20211220/TestBdd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Python.test_AddTest" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in TestBaidu" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest TestBaidu.test_baidu_search_case" />
+      <item index="3" class="java.lang.String" itemvalue="Python.test_sample" />
+      <item index="4" class="java.lang.String" itemvalue="Python.test_fixtures_01" />
+      <item index="5" class="java.lang.String" itemvalue="Python.run_tests (1)" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.run_tests (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test_fixtures_01" />
+        <item index="2" class="java.lang.String" itemvalue="Python.test_sample" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest TestBaidu.test_baidu_search_case" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in TestBaidu" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b1e6ffa-33cc-4a65-b4cf-4ff80a416b31" name="Default" comment="" />
+      <created>1626821331908</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626821331908</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittest_TestBaidu_test_baidu_search_case - 2022.03.07 at 05h 57m 39s.xml">
+      <configuration name="Unittest TestBaidu.test_baidu_search_case" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_TestBaidu_test_search3 - 2022.03.04 at 06h 51m 56s.xml">
+      <configuration name="Unittest TestBaidu.test_search3" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_TestBaidu_test_search3_(1) - 2022.03.04 at 06h 52m 15s.xml">
+      <configuration name="Unittest TestBaidu.test_search3 (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_TestBaidu_test_search4 - 2022.03.04 at 06h 50m 59s.xml">
+      <configuration name="Unittest TestBaidu.test_search4" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_TestBaidu_test_search5 - 2022.03.04 at 07h 00m 06s.xml">
+      <configuration name="Unittest TestBaidu.test_search5" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_TestBaidu - 2022.03.04 at 06h 44m 24s.xml">
+      <configuration name="Unittests in TestBaidu" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_TestBaidu - 2022.03.04 at 06h 53m 55s.xml">
+      <configuration name="Unittests in TestBaidu" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_TestBaidu - 2022.03.04 at 07h 01m 18s.xml">
+      <configuration name="Unittests in TestBaidu" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_TestBaidu - 2022.03.04 at 07h 03m 00s.xml">
+      <configuration name="Unittests in TestBaidu" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_TestBaidu - 2022.03.07 at 05h 56m 27s.xml">
+      <configuration name="Unittests in TestBaidu" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29427084" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34687155" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32821077" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34687155" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.178125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Learn-Selenium/20220303/test_baidu_data.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Learn-Selenium/20220303/test_baidu_dataV2.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../Learn-Selenium/20211220/leap_year.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="22" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Learn-Selenium/20211220/MyTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="26" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Learn-Selenium/20211220/fixture.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="36" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Learn-Selenium/20211220/test_baiduV2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Learn-Selenium/20211220/test_baiduV3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="36" column="19" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="36" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Learn-Selenium/excel_driver/demo3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Learn-Selenium/excel_driver/excel_read4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="35" column="25" lean-forward="true" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Learn-Selenium/excel_driver/excel_read5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Learn-Selenium/web_keys/keys_plus5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="34" column="27" lean-forward="false" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Learn-Selenium/web_keys/keys1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1625">
+          <caret line="65" column="21" lean-forward="false" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Learn-Selenium/cases/case_demo2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="20" lean-forward="false" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20220303/result_html" />
+    <entry file="file://$PROJECT_DIR$/20220303/test_report/result_html" />
+    <entry file="file://$PROJECT_DIR$/../Learn-Selenium/20220303/test_report/result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Learn-Selenium/20211220/run_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Learn-Selenium/20211220/test_baidu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="25" column="26" lean-forward="false" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python37/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="406" column="0" lean-forward="false" selection-start-line="406" selection-start-column="0" selection-end-line="406" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Learn-Selenium/20220303/ddt_data_file.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="39" lean-forward="false" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Learn-Selenium/20220303/ddt_data_file.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Learn-Selenium/20220303/run_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Learn-Selenium/20220303/run_testsV2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Learn-Selenium/20220303/test_baidu_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="38" selection-end-column="30" />
+          <folding>
+            <element signature="e#118#128#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Learn-Selenium/20220303/test_baidu_dataV2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="7" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="47" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Learn-Selenium/20220303/test_parameterized.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="39" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Learn-Selenium/20220303/test_baidu_ddt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="71" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Learn-Selenium/20220303/python_mail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="23" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Learn-Selenium/20220303/Python_mailV2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="32" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Learn-Selenium/20220303/python_yagmail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="16" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Learn-Selenium/20220303/run_testsV3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="22" column="68" lean-forward="false" selection-start-line="22" selection-start-column="68" selection-end-line="22" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Learn-Selenium/20220307/run_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="20" column="28" lean-forward="false" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Learn-Selenium/20220307/baidu_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python37/Lib/site-packages/poium/page_objects.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12812">
+          <caret line="45" column="6" lean-forward="false" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python37/Lib/site-packages/poium/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20220307/baidu_pagetwo.py" />
+    <entry file="file://$PROJECT_DIR$/../Learn-Selenium/20220307/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="27" column="24" lean-forward="false" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Learn-Selenium/20220607/run_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Learn-Selenium/20220607/report/log.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="38" column="30" lean-forward="false" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Learn-Selenium/20220607/report/result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Learn-Selenium/20220607/test_sample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Learn-Selenium/20220607/test_assert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="11" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="65" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Learn-Selenium/20220607/test_fixtures_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="36" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Learn-Selenium/20220607/test_fixtures_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="39" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Learn-Selenium/20220607/test_parameterize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="19" selection-end-column="47" />
+          <folding>
+            <element signature="e#120#133#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Learn-Selenium/20220607/test_fail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Learn-Selenium/20220607/test_project/conftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="10" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Learn-Selenium/20220607/test_project/test_sub.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="8" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Learn-Selenium/20220607/test_rerunfailures.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Learn-Selenium/20220607/test_parallel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Learn-Selenium/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Learn-Selenium/test_baidu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Learn-Selenium/test_click.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
